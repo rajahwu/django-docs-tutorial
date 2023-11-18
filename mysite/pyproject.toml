@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django-docs-tutorial"
+name = "mysite"
 version = "0.1.0"
 description = ""
 authors = ["rajahwu <vmradford@gmail.com>"]
@@ -7,6 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+django = "^4.2.7"
 
 
 [build-system]
